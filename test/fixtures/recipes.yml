@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  parent_product_id: 1
+  child_product_id: 1
+  quantity: 1
+  status: MyString
+
+two:
+  parent_product_id: 1
+  child_product_id: 1
+  quantity: 1
+  status: MyString
