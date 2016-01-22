@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  manufacture_date: 2016-01-22
+  stocktype_id: 1
+  quantity: 1
+  status: MyString
+
+two:
+  manufacture_date: 2016-01-22
+  stocktype_id: 1
+  quantity: 1
+  status: MyString
